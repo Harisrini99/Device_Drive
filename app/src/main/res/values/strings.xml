@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Live drive</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main6">Main6Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+
+
+    <string name="business_prompt">Choose a Bussiness Type</string>
+    <string name="country_prompt">Choose a Country</string>
+    <string name="title_activity_main7">Main7Activity</string>
+
+    <string-array name="country_arrays">
+        <item>India</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Singapore</item>
+        <item>New Zealand</item>
+    </string-array>
+</resources>

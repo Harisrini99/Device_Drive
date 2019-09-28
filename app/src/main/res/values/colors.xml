@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF6F48</color>
+    <color name="colorPrimaryDark">#A32800</color>
+    <color name="colorAccent">#000000</color>
+    <color name="WANTED">#D3D3DC</color>
+    <color name="TEXT">#EF0F69</color>
+    <color name="top">#adc8c8</color>
+    <color name="top1">#adc8c8</color>
+        <color name="quizpink">#FF5F7B</color>
+        <color name="text_gray">#A3A3A3</color>
+        <color name="blue_border">#3C608D</color>
+        <color name="hint">#A09F9F</color>
+        <color name="toolbar_opacity">#5B000000</color>
+        <color name="time">#24A07A</color>
+        <color name="date">#D7CF4F77</color>
+        <color name="white">#FFFFFF</color>
+</resources>
