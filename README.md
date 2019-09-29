@@ -4,9 +4,3 @@ An Android Application to upload and download the images in Firebase-storage wit
 Download the Zip from https://github.com/Harisrini99/Device_Drive
 
 Configure the Firebase Settings in Android Studio
-
-Steps
-
-  1) tools->firebse
-  
-  2)Select add firebase to android app(realtime database,Storage,Authentication)
